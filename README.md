@@ -11,8 +11,20 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 
 ---
 
+🎓 **Education:**  
+**Bach Khoa University (Ho Chi Minh City University of Technology)** – Ho Chi Minh City  
+**Bachelor of Engineering in Logistics & Supply Chain Management – English Program** | Sep 2021 – Nov 2025  
+- **GPA:** 3.8 / 4.0 (Graduated with Distinction)  
+- **Relevant Coursework:** Supply Chain Management, Forecasting Engineering, Operations Research, Operations Management, Procurement Management, Transportation Management, Inventory Management, Quality Management, etc.  
+- **Honors:** Academic Incentive Scholarship in 6 semesters (2021–2025)  
 🛠 **Skills:**  
-**Planning & Analytics:** Excel, Power BI, Python (Pandas, Matplotlib), SQL (PostgreSQL) 
+**Planning & Analytics:** Excel, Power BI, Python (Pandas, Matplotlib), SQL (PostgreSQL)  
+**Supply Chain Knowledge:** Warehouse & Inventory Management, Production Scheduling, Procurement  
+
+---
+
+🛠 **Skills:**  
+**Planning & Analytics:** Excel, Power BI, Python (Pandas, Matplotlib), SQL (PostgreSQL)  
 **Supply Chain Knowledge:** Warehouse & Inventory Management, Production Scheduling, Procurement
 
 📊 **Goal:**  
@@ -20,7 +32,7 @@ To contribute to a **data-driven and efficient supply chain** in a **dynamic, gr
 
 ---
 
-** 🤝 Let's Connect
+🤝 **Let's Connect**
 - 📧 Email: [kelvinduybui@gmail.com]  
 - 💼 LinkedIn: [[Bùi Xuân Bảo Duy](https://www.linkedin.com/in/xuan-bao-duy-bui-924067200/)]  
 - 🗂 Portfolio: ([Bùi Xuân Bảo Duy](https://github.com/kelvinduybui?tab=repositories8))
