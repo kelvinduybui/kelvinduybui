@@ -1,4 +1,4 @@
-# 👨‍🎓 Bùi Xuân Bảo Duy (Kelvin Duy Bùi)  
+# 👨‍🎓 Bùi Xuân Bảo Duy (Kelvin)  
 🎯 Aspiring Supply Chain & Operations Professional | Planning • Optimization • Data-Driven Decision Making  
 
 ---
@@ -33,5 +33,5 @@ To contribute to a **data-driven and efficient supply chain** in a **dynamic, gr
 
 ## 🤝 Let's Connect  
 - 📧 Email: [kelvinduybui@gmail.com]  
-- 💼 LinkedIn: [Bùi Xuân Bảo Duy](https://www.linkedin.com/in/xuan-bao-duy-bui-924067200/)  
-- 🗂 Portfolio: [Bùi Xuân Bảo Duy](https://github.com/kelvinduybui?tab=repositories)  
+- 💼 LinkedIn: [Bùi Xuân Bảo Duy (Kelvin)](https://www.linkedin.com/in/xuan-bao-duy-bui-924067200/)  
+- 🗂 Portfolio: [Bùi Xuân Bảo Duy (Kelvin)](https://github.com/kelvinduybui?tab=repositories)  
