@@ -14,7 +14,7 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 ## 🎓 Education  
 **Bach Khoa University (Ho Chi Minh City University of Technology)** – Ho Chi Minh City  
 **Bachelor of Engineering in Logistics & Supply Chain Management – English Program** | Sep 2021 – Nov 2025  
-- **GPA:** 3.8 / 4.0 (Expected to Graduate with Distinction)  
+- **GPA:** 3.8 / 4.0 (Graduate with Distinction)  
 - **Relevant Coursework:** Supply Chain Management, Forecasting Engineering, Operations Research, Operations Management, Procurement Management, Transportation Management, Inventory Management, Quality Management, etc.  
 - **Honors:** Academic Incentive Scholarship in 6 semesters (2021–2025)  
 
