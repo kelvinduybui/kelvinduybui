@@ -20,6 +20,10 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 
 ---
 
+## 📊 Featured Projects
+
+---
+
 ## 🛠 Skills  
 **Planning & Analytics:** Excel, Power BI, Python (Pandas, Matplotlib), SQL (PostgreSQL)  
 **Supply Chain Knowledge:** Warehouse & Inventory Management, Production Scheduling, Procurement  
