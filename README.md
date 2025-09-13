@@ -25,7 +25,7 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 
 Design a decision-support model to minimize supply chain costs across a 6-month horizon. Compare alternative strategies (Chase vs Level), visualize cost structures, and give out practical solutions.
 
---
+----
 
 **Analyzing Sales & Production Performance in Bicycle Manufacturing** | **SQL** | [Detail](https://github.com/kelvinduybui/Analyzing-Sales-Production-Performance-in-Bicycle-Manufacturing-SQL)  
 
