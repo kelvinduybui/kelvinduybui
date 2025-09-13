@@ -21,12 +21,24 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 ---
 
 ## 📊 Featured Projects  
-**Cost Optimization Supply Planning for a Manufacturing Company** | **Excel Solver** | [Detail](https://github.com/kelvinduybui/Cost-Optimization-Supply-Planning-for-a-Manufacturing-Company-Excel-Solver)
+**Cost Optimization Supply Planning for a Manufacturing Company** | **Excel Solver** | [Detail](https://github.com/kelvinduybui/Cost-Optimization-Supply-Planning-for-a-Manufacturing-Company-Excel-Solver)  
 
-Analyzing Sales & Production Performance in Bicycle Manufacturing | SQL  
-Exploring Production Performance & Quality Optimization in Manufacturing Environment | Power BI  
-RFM-Based Customer Segmentation for Retail Company Insights | Python  
-Production Shift & Workforce Planning for a Manufacturing Company | Python  
+Design a decision-support model to minimize supply chain costs across a 6-month horizon. Compare alternative strategies (Chase vs Level), visualize cost structures, and give out practical solutions.
+
+**Analyzing Sales & Production Performance in Bicycle Manufacturing** | **SQL** | [Detail](https://github.com/kelvinduybui/Analyzing-Sales-Production-Performance-in-Bicycle-Manufacturing-SQL)  
+
+Using SQL to analyze sales trends and production performance in a bicycle manufacturing company, uncovering key insights for decision-making.
+
+**Exploring Production Performance & Quality Optimization in Manufacturing Environment** | **Power BI** | [Detail](https://github.com/kelvinduybui/Exploring-Production-Performance-Quality-Optimization-in-Manufacturing-Environment-Power_BI)  
+
+This project analyzes data in Manufacturing environment to assess production, delays, inventory, and scrap. Interactive dashboards highlight bottlenecks and inefficiencies, with recommendations to enhance planning, reduce scrap, and optimize resources.
+
+**Production Shift & Workforce Planning for a Manufacturing Company** | **Python** | [Detail](https://github.com/kelvinduybui/Production-Shift-Workforce-Planning-for-a-Manufacturing-Company-Python)  
+
+This project develops an optimization-based scheduling model to assign full-time and part-time employees across weekly shifts in a production company. The model ensures labor demand is met while respecting labor rights, minimizing staffing imbalances, and improving overall workforce efficiency.
+
+**RFM-Based Customer Segmentation for Retail Company Insights** | **Python** | [Detail](https://github.com/kelvinduybui/RFM-Segmentation-for-Retail-Customer-Insights-Python)    
+RFM-based customer segmentation using Python to analyze retail transaction data, identify customer value tiers, and support data-driven decision-making in the retail sector.
 
 ---
 
