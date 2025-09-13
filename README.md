@@ -20,7 +20,12 @@ Supply Planning, Production Planning, Demand Planning, Inventory Optimization, a
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Projects  
+Cost Optimization Supply Planning for a Manufacturing Company | Excel Solver  
+Analyzing Sales & Production Performance in Bicycle Manufacturing | SQL  
+Exploring Production Performance & Quality Optimization in Manufacturing Environment | Power BI  
+RFM-Based Customer Segmentation for Retail Company Insights | Python  
+Production Shift & Workforce Planning for a Manufacturing Company | Python  
 
 ---
 
